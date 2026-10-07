@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+    color: #222;
+    line-height: 1.7;
+}
+
+header {
+    background: #0d47a1;
+    color: white;
+    padding: 25px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+header p {
+    font-size: 16px;
+    opacity: 0.95;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.card h2 {
+    color: #0d47a1;
+    margin-bottom: 15px;
+}
+
+.card p {
+    margin-bottom: 15px;
+}
+
+.article-title {
+    font-size: 34px;
+    color: #0d47a1;
+    margin-bottom: 10px;
+}
+
+.article-meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+article h2 {
+    color: #0d47a1;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+article h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+article p {
+    margin-bottom: 16px;
+}
+
+article ul {
+    margin: 10px 0 20px 25px;
+}
+
+article li {
+    margin-bottom: 8px;
+}
+
+.read-more {
+    display: inline-block;
+    background: #0d47a1;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.read-more:hover {
+    background: #083579;
+}
+
+.back-home {
+    display: inline-block;
+    color: #0d47a1;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.warning {
+    background: #fff3cd;
+    border-left: 5px solid #ffc107;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+.tip {
+    background: #e8f5e9;
+    border-left: 5px solid #2e7d32;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+footer {
+    background: #0d47a1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+@media (max-width: 600px) {
+
+    header h1 {
+        font-size: 26px;
+    }
+
+    .container {
+        width: 94%;
+        margin: 25px auto;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    .article-title {
+        font-size: 27px;
+    }
+
+    body {
+        font-size: 15px;
+    }
+}
