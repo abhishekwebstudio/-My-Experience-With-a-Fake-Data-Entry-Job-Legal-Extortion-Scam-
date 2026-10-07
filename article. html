@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Experience With a Fake Data Entry Job & Legal Extortion Scam</title>
+
+    <meta name="description" content="A personal cyber-awareness case study about a fake work-from-home data entry job, penalty demands, legal threats and suspicious documents.">
+
+    <meta name="author" content="Abhishek">
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f8fc;
+            color: #222;
+            line-height: 1.7;
+        }
+
+        .header {
+            background: #0d6efd;
+            color: white;
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            max-width: 900px;
+            margin: auto;
+            font-size: 38px;
+            line-height: 1.2;
+        }
+
+        .subtitle {
+            max-width: 750px;
+            margin: 20px auto 0;
+            font-size: 18px;
+        }
+
+        .meta {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        .article {
+            max-width: 850px;
+            margin: 40px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+        }
+
+        .article h2 {
+            color: #0d6efd;
+            margin-top: 35px;
+        }
+
+        .article h3 {
+            color: #333;
+            margin-top: 25px;
+        }
+
+        .article p {
+            font-size: 17px;
+        }
+
+        .highlight {
+            background: #eaf3ff;
+            border-left: 5px solid #0d6efd;
+            padding: 18px;
+            margin: 25px 0;
+            font-weight: bold;
+        }
+
+        .warning {
+            background: #fff4e5;
+            border-left: 5px solid #ff9800;
+            padding: 18px;
+            margin: 25px 0;
+        }
+
+        .checklist {
+            background: #f7f7f7;
+            padding: 20px 30px;
+            border-radius: 10px;
+        }
+
+        .disclaimer {
+            background: #eeeeee;
+            padding: 20px;
+            margin-top: 40px;
+            font-size: 14px;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            background: #222;
+            color: white;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 28px;
+            }
+
+            .article {
+                margin: 20px 12px;
+                padding: 25px 20px;
+            }
+
+            .article p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="header">
+
+        <h1>
+            My Experience With a Fake Data Entry Job & Legal Extortion Scam
+        </h1>
+
+        <div class="subtitle">
+            How a work-from-home job opportunity turned into penalty demands,
+            legal threats and suspicious documents.
+        </div>
+
+        <div class="meta">
+            Cyber Awareness | Scam Case Study<br>
+            By Abhishek
+        </div>
+
+    </header>
+
+
+    <main class="article">
+
+        <p>
+            I am sharing this experience to create awareness among students
+            and job seekers who are looking for work-from-home opportunities.
+        </p>
+
+        <div class="highlight">
+            A job opportunity should never force you to make a payment
+            simply because someone is threatening you with legal action.
+        </div>
+
+
+        <h2>How It Started</h2>
+
+        <p>
+            My experience started with an online work-from-home data entry
+            opportunity. At first, the work appeared to be a normal
+            data-entry or form-filling job.
+        </p>
+
+        <p>
+            Like many students and job seekers, I was interested because
+            the opportunity appeared suitable for working from home.
+        </p>
+
+        <p>
+            However, after the task and agreement process, the situation
+            started to change.
+        </p>
+
+
+        <h2>The Situation Changed</h2>
+
+        <p>
+            I was later told that there was an issue with the work and that
+            I had supposedly violated the terms of the agreement.
+        </p>
+
+        <p>
+            This was followed by demands for a penalty or payment.
+            Instead of immediately making the payment, I started examining
+            the situation more carefully.
+        </p>
+
+
+        <div class="warning">
+            <strong>Important:</strong> Never make an immediate payment
+            simply because an unknown person threatens you with legal action.
+            Verify the claim independently first.
+        </div>
+
+
+        <h2>More Sections Coming</h2>
+
+        <p>
+            In the next sections, I will explain what happened after the
+            penalty demand, how the legal threats were presented, what
+            suspicious documents I noticed, how I preserved the evidence,
+            and what steps I took afterwards.
+        </p>
+
+
+        <h2>Why I Am Sharing This</h2>
+
+        <p>
+            The purpose of this article is not to target any particular
+            individual or organisation. I am sharing my experience so that
+            other students and job seekers can recognise similar warning
+            signs and avoid making decisions under pressure.
+        </p>
+
+
+        <div class="disclaimer">
+
+            <strong>Disclaimer:</strong>
+
+            This article is a personal account and cyber-awareness case study
+            based on my experience. It is intended for educational and
+            awareness purposes. Readers should independently verify legal
+            claims and consult appropriate authorities or a qualified legal
+            professional when necessary.
+
+        </div>
+
+    </main>
+
+
+    <footer>
+        © 2026 Abhishek | Cyber Awareness
+    </footer>
+
+</body>
+</html>
